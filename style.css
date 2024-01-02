@@ -1,0 +1,23 @@
+.razmer {
+	background-image: url('bg11.jpg');
+	height: 700px;
+	width: 400px;
+	background-size: contain;
+	margin: 0;
+	color: white;
+	box-sizing: border-box;
+	padding-top: 70px;
+	font-family: sans-serif;
+}
+.bord {
+	border-top: 4px solid white;
+	border-bottom: 4px solid white;
+	border-left: 4px solid white;
+	font-family: sans-serif;
+}
+.bord1 {
+	border-top: 4px solid white;
+	border-bottom: 4px solid white;
+	font-family: sans-serif;
+	border-right:4px solid white;
+}
